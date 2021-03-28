@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>coffin dance (1)</Name>
+  <!--Razer Synaps Macro.  coffin dance (astronomia) for Genshin impact WINDSONG LYRE -->
   <Guid>980ee4f8-ebb4-4d06-8416-c468e8c5e416</Guid>
   <MacroEvents>
     <MacroEvent>
